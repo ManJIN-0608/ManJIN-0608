@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on the Australian National University
+- 🌱 I’m currently learning Computer Science (specialized data science), particularlly in Python, SQL, Machine Learning, Data Mining......
+- 👯 I’m looking to collaborate on self-disciplined and optimistic people
+- 📫 How to reach me: manjin19980608@163.com
+- 😄 Pronouns: energetic, helpful
+- ⚡ Fun fact: I am particularly proud of I had two intern experience during university. My internships are about data monitoring, data analysis and data reporting and visualize. I purchse the data science stey by step, during the internships, reporting, Excel, and BI tools are used in the business. In the university, many project experience are used programming language, such as SQL, Python or R. I also study machine learning, data mining, which let me realize that what I did before is just the tip of the iceberg. Many ways can be applied in the more large dataset and I can do some classifiacation and prediction, not just visualize and analyse basically.
+
+<!-- ![Github stats]( https://github-readme-stats.vercel.app/api?username=ManJIN-0608&theme=highcontrast&show_icons=true&count_private=true ) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ManJIN-0608)
